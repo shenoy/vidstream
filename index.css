@@ -1,11 +1,21 @@
 body {
   background-color: black;
 }
+
+.title {
+  justify-items: center;
+  align-items: center;
+  color: bisque;
+  font-size: 3rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
 video {
-  margin-top: 5%;
+  margin-top: 3%;
   margin-left: 14%;
   margin-right: 15%;
   border-radius: 20px;
-  border: 10px outset #ddd;
-  border-width: 20px;
+  border: 5px outset grey;
+  border-width: 10px;
 }
