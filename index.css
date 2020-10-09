@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+video {
+  margin-top: 5%;
+  margin-left: 14%;
+  margin-right: 15%;
+  border-radius: 20px;
+  border: 10px outset #ddd;
+  border-width: 20px;
+}
